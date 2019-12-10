@@ -1,3 +1,5 @@
+#Boris Kuznecov 50% Odoevcev Sergey 50% Makarov Artem 40$
+
 import urllib.request as ur
 with open('players.txt', 'r') as play, open('outputs.txt', 'w') as outp:
     line = play.readlines()
